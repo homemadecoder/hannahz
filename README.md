@@ -1,7 +1,7 @@
 # Hannah Zulueta Page
 This is my first project on my #100DaysOfcode journey.
 
-### You can access this site here: [HannahZulueta](https://hanapotski.github.io/hannahzulueta/)
+### You can access this site here: [HannahZulueta](https://homemadecoder.github.io/hannahz/)
 
 Follow my journey here: 
 1. [Github](https://github.com/hanapotski/100-days-of-code)
